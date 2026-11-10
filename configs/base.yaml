@@ -1,0 +1,8 @@
+model:
+  in_channels: 2
+train:
+  epochs: 40
+  lr: 0.0002
+  batch_size: 8
+data:
+  root: data/dsec-sample
